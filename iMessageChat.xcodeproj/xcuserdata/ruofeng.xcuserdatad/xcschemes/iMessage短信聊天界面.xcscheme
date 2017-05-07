@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F263D7431EBC9FEE003CA79D"
-               BuildableName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.app"
-               BlueprintName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;"
-               ReferencedContainer = "container:iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.xcodeproj">
+               BuildableName = "iMessageChat.app"
+               BlueprintName = "iMessageChat"
+               ReferencedContainer = "container:iMessageChat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F263D7431EBC9FEE003CA79D"
-            BuildableName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.app"
-            BlueprintName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;"
-            ReferencedContainer = "container:iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.xcodeproj">
+            BuildableName = "iMessageChat.app"
+            BlueprintName = "iMessageChat"
+            ReferencedContainer = "container:iMessageChat.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F263D7431EBC9FEE003CA79D"
-            BuildableName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.app"
-            BlueprintName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;"
-            ReferencedContainer = "container:iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.xcodeproj">
+            BuildableName = "iMessageChat.app"
+            BlueprintName = "iMessageChat"
+            ReferencedContainer = "container:iMessageChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F263D7431EBC9FEE003CA79D"
-            BuildableName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.app"
-            BlueprintName = "iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;"
-            ReferencedContainer = "container:iMessage&#x77ed;&#x4fe1;&#x804a;&#x5929;&#x754c;&#x9762;.xcodeproj">
+            BuildableName = "iMessageChat.app"
+            BlueprintName = "iMessageChat"
+            ReferencedContainer = "container:iMessageChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
